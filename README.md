@@ -82,8 +82,8 @@ Scikit-learn	Evaluation
 ## 🙏 Acknowledgments
 Thanks to Kaggle for the dataset, and all the frontline workers preventing wildfires worldwide.
 
-##📄 License
+## 📄 License
 MIT License – feel free to use and contribute
-##🔗 Connect
+## 🔗 Connect
 Built with 🔥 by Dev singh
 📧 mahgalcoco@gmail.com
